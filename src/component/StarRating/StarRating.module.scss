@@ -1,0 +1,24 @@
+.feedbackBlock {
+    display: flex;
+}
+.star {
+    padding-right: 10px;
+}
+.wrapper {
+    display: flex;
+}
+.label {
+    margin-left: 20px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 140%;
+    color: #c4c4c4;
+}
+.errorMessage {
+    color: #ff6767;
+    font-size: 12px;
+    line-height: 14px;
+    padding: 8px 18px;
+}
